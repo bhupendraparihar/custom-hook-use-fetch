@@ -26,8 +26,4 @@ const useFetch = (key, fn) => {
     return { isLoading, apiData, error };
 }
 
-
-
-
-
 export default useFetch;
